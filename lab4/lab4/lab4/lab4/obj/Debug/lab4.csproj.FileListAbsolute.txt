@@ -1,0 +1,7 @@
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\bin\Debug\lab4.exe
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\bin\Debug\lab4.pdb
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\obj\Debug\lab4.exe
+G:\Study\5 semester\C#\lab4\lab4\lab4\lab4\obj\Debug\lab4.pdb
